@@ -8,14 +8,14 @@
 | 校園導覽----雙語平面圖 | Campus Tour ---- Bilingual Floor Plan |
 | 處室分機表 | Office Extension List |
 | 二、行政單位： | II. Administrative Units: |
-| 校長室 | President's Office |
+| 校長室 | Principal's Office |
 | (一) 辦學願景： | (I) Educational Vision: |
 | 1. 營造一所充滿「愛、希望與卓越」的幸福學園。 | 1. To create a happy campus full of "love, hope, and excellence." |
 | 2. 老師能夠專業、敬業到樂業。 | 2. Teachers can be professional, dedicated, and enjoy their work. |
 | 3. 學生可以適性、適才到適所。 | 3. Students can find suitable learning, talents, and places. |
-| (二) 學校經營策略： | (II) School Management Strategy: |
+| (二) 學校經營策略： | (II) School Management Strategies: |
 | 前言： | Preface: |
-| 教育是提升國民福祉的重要基石，而發展「教育幸福」更是促進國民幸福的必要手段。聯合國永續發展目標（Sustainable Development Goals, SDGs）第4項主張「確保有教無類、全民且高品質的教育，並提倡終身學習」。經濟合作暨發展組織（OECD）於2019年提出「2030學習羅盤（Learning Compass 2030）」，界定學習者應具備的知識、技能、態度與價值觀，以發揮潛能，並為社區與地球福祉作出貢獻。由此可見，從新課綱核心素養與學習羅盤的觀點出發，我們期待學生不僅具備知識與技能，亦能培養正確的態度與價值觀，朝向參與學習、幸福生活的終極目標前進。因此，學校校務系統需在共同體、環境、資源與效能等層面更有效運作，以支持學校發展；其完整架構可由六個面向加以描繪，說明如下： | Education is the cornerstone of improving national well-being, and developing "educational happiness" is a necessary means to promote national happiness. The fourth of the United Nations Sustainable Development Goals (SDGs) advocates "ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all." The Organisation for Economic Co-operation and Development (OECD) proposed the "Learning Compass 2030" in 2019, defining the knowledge, skills, attitudes, and values that learners should possess to fulfill their potential and contribute to the well-being of their communities and the planet. From the perspective of the new curriculum's core competencies and the Learning Compass, we expect students not only to have knowledge and skills but also to cultivate correct attitudes and values, moving towards the ultimate goal of participating in learning and living a happy life. Therefore, the school's administrative system needs to operate more effectively in terms of community, environment, resources, and efficiency to support school development. Its complete framework can be depicted in the following six aspects: |
+| 教育是提升國民福祉的重要基石，而發展「教育幸福」更是促進國民幸福的必要手段。聯合國永續發展目標（Sustainable Development Goals, SDGs）第4項主張「確保有教無類、全民且高品質的教育，並提倡終身學習」。經濟合作暨發展組織（OECD）於2019年提出「2030學習羅盤（Learning Compass 2030）」，界定學習者應具備的知識、技能、態度與價值觀，以發揮潛能，並為社區與地球福祉作出貢獻。由此可見，從新課綱核心素養與學習羅盤的觀點出發，我們期待學生不僅具備知識與技能，亦能培養正確的態度與價值觀，朝向參與學習、幸福生活的終極目標前進。因此，學校校務系統需在共同體、環境、資源與效能等層面更有效運作，以支持學校發展；其完整架構可由六個面向加以描繪，說明如下： | Education is the cornerstone of improving national well-being, and developing "educational happiness" is a necessary means to promote national happiness. The Goal 4,  United Nations Sustainable Development Goals (SDGs) advocates "ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all." The Organisation for Economic Co-operation and Development (OECD) proposed the "Learning Compass 2030" in 2019, defining the knowledge, skills, attitudes, and values that learners should possess to fulfill their potential and contribute to the well-being of their communities and the planet. From the perspective of the new curriculum's core competencies and the Learning Compass, we expect students not only to have knowledge and skills but also to cultivate correct attitudes and values, moving towards the ultimate goal of participating in learning and living a happy life. Therefore, the school's administrative system needs to operate more effectively in terms of community, environment, resources, and efficiency to support school development. Its complete framework can be depicted in the following six aspects: |
 | 一、營造溫馨校園氛圍：以親師合作為前提、以社區共榮為訴求 | I. Create a Warm Campus Atmosphere: Premised on Parent-Teacher Cooperation and Aiming for Community Co-prosperity |
 | 1. 落實教育機會均等的理念，不放棄每一個孩子，針對社經地位弱勢學生提供必要之協助，建構安全、安心、安定的學習校園。 | 1. Implement the concept of equal educational opportunities, never giving up on any child, providing necessary assistance to socioeconomically disadvantaged students, and building a safe, secure, and stable learning campus. |
 | 2. 引進社會資源，統整運用，落實家庭訪問及親師合作；體現緊密的學習網絡，發揮「友善」、「行善」、「揚善」的人文素養。 | 2. Introduce and integrate social resources, implement home visits and parent-teacher cooperation; embody a close-knit learning network, and promote the humanistic qualities of "friendliness," "good deeds," and "promoting goodness." |
@@ -26,14 +26,14 @@
 | 二、引領親和服務團隊：以科技創新為思維、以人文關懷為理念 | II. Lead a Friendly Service Team: With Technological Innovation as the Mindset and Humanistic Care as the Philosophy |
 | 1. 展現以愛為出發點的組織文化，強化師長的向心力，形塑學校發展願景，建構卓越品牌共識。 | 1. Demonstrate an organizational culture based on love, strengthen the cohesion of teachers, shape the school's development vision, and build consensus on an excellent brand. |
 | 2. 以身作則，喚起共同行動，發揮個別關懷，激發師長創造力，提升自我實現動機。 | 2. Lead by example, inspire collective action, provide individual care, stimulate teachers' creativity, and enhance their motivation for self-realization. |
-| 3. 做好教師的行政支援工作，爭取保障教師權益，讓教師團隊可以安心教學，降低干擾教學因素，形成優質的教學品質圈。 | 3. Provide good administrative support for teachers, strive to protect their rights and interests, so that the teaching team can teach with peace of mind, reduce factors that interfere with teaching, and form a high-quality teaching circle. |
+| 3. 做好教師的行政支援工作，爭取保障教師權益，讓教師團隊可以安心教學，降低干擾教學因素，形成優質的教學品質圈。 | 3. Provide good administrative support for teachers, strive to protect their rights and interests, so that the teaching team can feel at ease when teaching, reduce disruptions to teaching, and form a high-quality teaching circle. |
 | 4. 表彰典範教師，鼓勵同儕對話與互動，辦理各項福利文康活動，增進教師交流與情感，促進溫馨和諧的教師團隊。 | 4. Recognize model teachers, encourage peer dialogue and interaction, organize various welfare and recreational activities to enhance teacher communication and affection, and promote a warm and harmonious teaching team. |
 | 三、型塑精緻教學團隊：以學生學習為中心、以教師專業為依歸 | III. Shape a Refined Teaching Team: Centered on Student Learning and Guided by Teacher Professionalism |
 | 1. 鼓勵教師成立專業學習社群，精進數位課程融入教學，讓學習不中斷，照顧學生多樣化需求。 | 1. Encourage teachers to form professional learning communities, refine the integration of digital courses into teaching, ensure uninterrupted learning, and cater to the diverse needs of students. |
 | 2. 尊重並保障教師專業自主權，支持教師參與專業組織，肯定貢獻，建立溝通平台，提升行政效能。 | 2. Respect and protect teachers' professional autonomy, support their participation in professional organizations, affirm their contributions, establish communication platforms, and improve administrative efficiency. |
 | 3. 落實班級經營與學生輔導，運用正向管教，協助學生發揮所長，降低中輟率。 | 3. Implement class management and student counseling, use positive discipline, help students develop their strengths, and reduce the dropout rate. |
 | 4. 關懷與追蹤輔導學習成就低落學生，強化三級預防體制，建立成績預警系統，推動補救教學。 | 4. Care for and follow up with underachieving students, strengthen the three-tier prevention system, establish an academic early warning system, and promote remedial teaching. |
-| 四、培養務實致用能力：以學校本位為經緯、以人性精進為依歸 | IV. Cultivate Practical and Applicable Abilities: Based on the School's Position and Guided by Humanistic Improvement |
+| 四、培養務實致用能力：以學校本位為經緯、以人性精進為依歸 | IV. Cultivate Practical and Applicable Abilities: Grounded in school-based development and Guided by Humanistic Improvement |
 | 1. 強化知行合一，鼓勵學生創新思考，培養知識、態度、技能的全方位素養。 | 1. Strengthen the unity of knowledge and action, encourage students' innovative thinking, and cultivate comprehensive literacy in knowledge, attitudes, and skills. |
 | 2. 發展校本課程與在地特色，建構適性揚才的教學平台。 | 2. Develop school-based courses and local characteristics to build a teaching platform for adaptive talent development. |
 | 3. 推動技藝、技能、技術領域專業教育訓練與加深加廣課程，協助學生取得證照與認證。 | 3. Promote professional education and training in arts, skills, and technology, as well as enriched and broadened courses, to help students obtain licenses and certifications. |
@@ -44,20 +44,20 @@
 | 1. 欣賞與肯定學生多元表現，舉辦藝術、科學、技能、運動等多元活動。 | 1. Appreciate and affirm students' diverse performances by organizing various activities in arts, science, skills, and sports. |
 | 2. 推動品格教育、生命教育、禮儀教育、閱讀教育，培養學生正向人格。 | 2. Promote character education, life education, etiquette education, and reading education to cultivate students' positive personality. |
 | 3. 創造力：發展創意思考、跨域專題活動。 | 3. Creativity: Develop creative thinking and interdisciplinary project activities. |
-| 4. 合作力：推動跨域專題、各項競賽與成果發表。 | 4. Collaboration: Promote interdisciplinary projects, various competitions, and result presentations. |
+| 4. 合作力：推動跨域專題、各項競賽與成果發表。 | 4. Collaboration: Promote interdisciplinary projects, various competitions, and performance showcases. |
 | 5. 行動力：鼓勵參與甲級排球賽、全國技能競賽、商業及科技競賽等。 | 5. Action: Encourage participation in Grade A volleyball matches, national skills competitions, and business and technology competitions. |
 | 6. 連結力：推動雙語教育與國際交流，引進外籍教師與日語課程。 | 6. Connectivity: Promote bilingual education and international exchanges, and introduce foreign teachers and Japanese language courses. |
 | 六、達致優質學校文化：以知識管理為方法、以永續發展為願景 | VI. Achieve a High-Quality School Culture: With Knowledge Management as the Method and Sustainable Development as the Vision |
 | 1. 定期辦理教師與行政人員增能研習，建立激勵機制與危機處理能力。 | 1. Regularly organize professional development workshops for teachers and administrative staff to establish incentive mechanisms and crisis management capabilities. |
 | 2. 建立績效管理制度，落實計畫、執行、檢討、回饋修正。 | 2. Establish a performance management system to implement planning, execution, review, and feedback for correction. |
 | 3. 鼓勵教師分享專業發展歷程與教學成果，促進專業永續發展，擴展影響力。 | 3. Encourage teachers to share their professional development journey and teaching achievements to promote sustainable professional development and expand their influence. |
-| 4. 朝向優質學校評選 4.0 核心理念「創新實驗、智慧化、學校特色」，發展頭家成為特色優質學校。 | 4. Move towards the core concept of "innovative experimentation, intellectualization, and school characteristics" for the 4.0 high-quality school evaluation, and develop Toucheng Commercial and Technical Vocational High School into a distinctive and high-quality school. |
+| 4. 朝向優質學校評選 4.0 核心理念「創新實驗、智慧化、學校特色」，發展頭家成為特色優質學校。 | 4. Move towards the core concept of "innovative experimentation, intellectualization, and school characteristics" for the 4.0 high-quality school evaluation, and develop TCVS into a distinctive and high-quality school. |
 | 教務處 | Academic Affairs Office |
 | (一) 教務主任 | (I) Director of Academic Affairs |
 | 分機：110 | Extension: 110 |
 | 信箱：tcvs110@tcvs.ilc.edu.tw | Email: tcvs110@tcvs.ilc.edu.tw |
 | 職掌：教務處各項業務。 | Responsibilities: All affairs of the Academic Affairs Office. |
-| (二) 教學組長 | (II) Head of the Teaching Section |
+| (二) 教學組長 | (II) Section Chief of Curriculum |
 | 分機：111 | Extension: 111 |
 | 信箱：tcvs111@tcvs.ilc.edu.tw | Email: tcvs111@tcvs.ilc.edu.tw |
 | 職掌： | Responsibilities: |
@@ -67,24 +67,24 @@
 | 4. 辦理學校考試及補考事宜。 | 4. Handling school exams and make-up exams. |
 | 5. 辦理學業成績考查。 | 5. Managing academic performance evaluation. |
 | 6. 辦理各項學藝競賽。 | 6. Organizing various academic and artistic competitions. |
-| (三) 註冊組長 | (III) Head of the Registration Section |
+| (三) 註冊組長 | (III) Section Chief of Registration |
 | 分機：118 | Extension: 118 |
 | 信箱：113@tcvs.ilc.edu.tw | Email: 113@tcvs.ilc.edu.tw |
 | 職掌： | Responsibilities: |
 | 1. 學籍管理。 | 1. Student registration management. |
 | 2. 學生成績之統計結算。 | 2. Statistical settlement of student grades. |
-| 3. 辦理復學、重讀通知事宜。 | 3. Handling notifications for school reinstatement and repeating a grade. |
-| 4. 辦理學生評量辦法、學分抵免實施要點事宜。 | 4. Managing student assessment methods and credit transfer implementation points. |
-| 5. 學籍證明（學籍卡與成績證明書、應屆畢業生證明書、修業證明書、畢業證書報核及補發、核（補）發學生證）。 | 5. Academic certificates (student status cards and transcripts, certificates for graduating students, certificates of attendance, reporting and reissuing diplomas, issuing/reissuing student ID cards). |
+| 3. 辦理復學、重讀通知事宜。 | 3. Handling notifications for school reinstatement and readmission. |
+| 4. 辦理學生評量辦法、學分抵免實施要點事宜。 | 4. Managing student assessment methods and guidelines for credit waiver. |
+| 5. 學籍證明（學籍卡與成績證明書、應屆畢業生證明書、修業證明書、畢業證書報核及補發、核（補）發學生證）。 | 5. Academic certificates (student academic records and transcripts, certificates for graduating students, certificates of attendance, reporting and reissuing diplomas, issuing/reissuing student ID cards). |
 | 6. 學雜費減免、升學報名。 | 6. Handling tuition and fee reductions, and registration for further education. |
 | 7. 學生學習歷程檔案管理作業。 | 7. Managing student learning portfolio files. |
-| (四) 設備組長 | (IV) Head of the Equipment Section |
+| (四) 設備組長 | (IV) Section Chief of Equipment |
 | 分機：117 | Extension: 117 |
 | 職掌： | Responsibilities: |
-| 1. 各項教學設備及特別教室管理、借用。 | 1. Management and borrowing of various teaching equipment and special classrooms. |
+| 1. 各項教學設備及特別教室管理、借用。 | 1. Management and lending of various teaching equipment and special classrooms. |
 | 2. 共同學科設備儀器檢修事宜。 | 2. Inspection and repair of equipment and instruments for common subjects. |
 | 3. 辦理資訊設備教育事宜。 | 3. Handling matters related to information equipment education. |
-| (五) 特教組長 | (V) Head of the Special Education Section |
+| (五) 特教組長 | (V) Chief of Special Education Section |
 | 分機：117 | Extension: 117 |
 | 信箱：sp117@tcvs.ilc.edu.tw | Email: sp117@tcvs.ilc.edu.tw |
 | 職掌： | Responsibilities: |
@@ -99,7 +99,7 @@
 | 2. 辦理重修、補修、學習扶助計畫、課業輔導。 | 2. Handling retakes, make-up courses, learning support programs, and academic counseling. |
 | 3. 辦理教師公開授課。 | 3. Organizing public teaching demonstrations by teachers. |
 | 4. 各項獎助學金。 | 4. Various scholarships and grants. |
-| (七) 進修部註冊組長 | (VII) Head of the Registration Section, Continuing Education Division |
+| (七) 進修部註冊組長 | (VII) Section Chief of Registration, Continuing Education Division |
 | 分機：117 | Extension: 117 |
 | 職掌： | Responsibilities: |
 | 1. 彙整專案各項經費事宜。(完全免試、學習歷程檔案)。 | 1. Consolidating funding for various projects (e.g., complete exam exemption, student learning portfolios). |
@@ -443,7 +443,7 @@
 | （5）培養具備職場倫理和敬業樂群的人才。 | (5) Cultivating talent with workplace ethics and a spirit of dedication and teamwork. |
 | 幼保科 | Early Childhood Care and Education Department |
 | 一、科特色 | I. Department Characteristics |
-| 頭城家商幼兒保育科為東部唯一設有幼保科的公立高職，校內附設幼兒園，讓學生能在真實環境中學習與實作，將理論與實務緊密結合。科上多次榮獲縣府及托育評鑑優等獎，並與產學合作單位簽署合作，提供獎學金、實習與就業資源，學習成果深受肯定。 | The Early Childhood Care and Education Department at Toucheng Commercial and Technical Vocational High School is the only public vocational high school in eastern Taiwan with such a department. The school has an affiliated kindergarten, allowing students to learn and practice in a real environment, closely integrating theory and practice. The department has won numerous excellence awards from the county government and in childcare evaluations, and has signed cooperation agreements with industry-academia partners to provide scholarships, internships, and employment resources. Its learning outcomes are highly recognized. |
+| 頭城家商幼兒保育科為東部唯一設有幼保科的公立高職，校內附設幼兒園，讓學生能在真實環境中學習與實作，將理論與實務緊密結合。科上多次榮獲縣府及托育評鑑優等獎，並與產學合作單位簽署合作，提供獎學金、實習與就業資源，學習成果深受肯定。 | The Early Childhood Care and Education Department at TCVS is the only public vocational high school in eastern Taiwan with such a department. The school has an affiliated kindergarten, allowing students to learn and practice in a real environment, closely integrating theory and practice. The department has won numerous excellence awards from the county government and in childcare evaluations, and has signed cooperation agreements with industry-academia partners to provide scholarships, internships, and employment resources. Its learning outcomes are highly recognized. |
 | 二、專業能力 | II. Professional Abilities |
 | 學生在三年學習中能習得幼兒照顧與教育的核心專業，包括課程設計、教具製作、嬰幼兒護理、親職教育及活動展演等。透過專業訓練與校內外實習，培養溝通協調、創意發想與團隊合作能力，為未來升學與職場奠定扎實基礎。 | In their three years of study, students can acquire core professional skills in early childhood care and education, including curriculum design, teaching aid production, infant and toddler care, parent education, and event performance. Through professional training and internships both on and off campus, they cultivate communication and coordination, creative thinking, and teamwork skills, laying a solid foundation for future further education and careers. |
 | 三、未來出路 | III. Future Prospects |
@@ -515,7 +515,7 @@
 | • 醫美領域：醫美助理、醫美保養專員 | • Medical Aesthetics Field: Medical Aesthetics Assistant, Medical Aesthetics Skincare Specialist |
 | 餐飲科 | Food and Beverage Management Department |
 | 一、學科介紹 | I. Department Introduction |
-| 國立頭城家商 餐飲管理科／餐飲技術科（實用技能班） | National Toucheng Commercial and Technical Vocational High School, Department of Food and Beverage Management / Department of Food and Beverage Technology (Practical Skills Class) |
+| 國立頭城家商 餐飲管理科／餐飲技術科（實用技能班） | National TCVS, Department of Food and Beverage Management / Department of Food and Beverage Technology (Practical Skills Class) |
 | #來頭家，當頭家，成就人生贏家！ | #Come to Toucheng, be a boss, and become a winner in life! |
 | #全方位餐飲學習 × 實戰現場接軌 × 技藝創意並進 | #Comprehensive food and beverage learning × Connection with real-world practice × Simultaneous advancement of skills and creativity |
 | #頭家餐飲科，讓你學會做、懂得賣、勇於創、走得遠！ | #Toucheng's Food and Beverage Department, lets you learn to make, know how to sell, dare to create, and go far! |
@@ -542,7 +542,7 @@
 | • 設有多間專業教室（中餐、西餐、烘焙、飲料調製、餐飲服務、實習餐廳） | • Equipped with multiple professional classrooms (Chinese cuisine, Western cuisine, baking, beverage preparation, food and beverage service, training restaurant) |
 | • 中餐與烘焙 國家技術士檢定指定考場 | • Designated test center for national technician certification in Chinese cuisine and baking |
 | 四、聯絡我們 | IV. Contact Us |
-| 國立頭城家商 餐飲科 | National Toucheng Commercial and Technical Vocational High School, Food and Beverage Department |
+| 國立頭城家商 餐飲科 | National TCVS, Food and Beverage Department |
 | 地址｜宜蘭縣頭城鎮新興路111號 | Address｜No. 111, Xinxing Rd, Toucheng Township, Yilan County |
 | 電話｜(03) 977-1131 分機 147 | Phone｜(03) 977-1131 ext. 147 |
 | 觀光科 | Tourism and Hospitality Department |
@@ -571,7 +571,7 @@
 | • 【體育事業】外澳海水浴場、福隆海水浴場 | • 【Sports Business】Wai'ao Beach, Fulong Beach |
 | • 【郵輪業】歌詩達郵輪、MSC地中海郵輪 | • 【Cruise Industry】Costa Cruises, MSC Cruises |
 | 表藝科 | Performing Arts Department |
-| 頭城家商表演藝術科是全國唯一的公立表演藝術科，致力於培養學生在舞蹈、戲劇、幕後等領域的專業能力與創新表現。學生已展現多項傑出成果，包括受邀於利澤偶藝村與巴西藝術家同台演出，在全國學生戲劇比賽中勇奪冠軍、街舞競賽榮獲獎項，參與宜蘭跨年表演等重要大小活動表演。 | The Performing Arts Department at Toucheng Commercial and Technical Vocational High School is the only public performing arts department in the country, dedicated to cultivating students' professional abilities and innovative performances in fields such as dance, drama, and backstage work. Students have already demonstrated numerous outstanding achievements, including being invited to perform with a Brazilian artist at the Lize Puppet Art Village, winning the championship in the national student drama competition, receiving awards in street dance competitions, and participating in major and minor events such as the Yilan New Year's Eve performance. |
+| 頭城家商表演藝術科是全國唯一的公立表演藝術科，致力於培養學生在舞蹈、戲劇、幕後等領域的專業能力與創新表現。學生已展現多項傑出成果，包括受邀於利澤偶藝村與巴西藝術家同台演出，在全國學生戲劇比賽中勇奪冠軍、街舞競賽榮獲獎項，參與宜蘭跨年表演等重要大小活動表演。 | The Performing Arts Department at TCVS is the only public performing arts department in the country, dedicated to cultivating students' professional abilities and innovative performances in fields such as dance, drama, and backstage work. Students have already demonstrated numerous outstanding achievements, including being invited to perform with a Brazilian artist at the Lize Puppet Art Village, winning the championship in the national student drama competition, receiving awards in street dance competitions, and participating in major and minor events such as the Yilan New Year's Eve performance. |
 | 表藝科給予學生很多的舞台展現自己，專業的課程與師資，科上亦輔導學生取得美容丙級證照，讓他們在升學與職場上，無論幕前幕後都能發揮專業。 | The Performing Arts Department provides students with many stages to showcase themselves. With professional courses and teachers, the department also guides students in obtaining a Level C cosmetology certificate, allowing them to apply their professional skills both on and off the stage in their further education and careers. |
 | 普通科 | General Studies Department |
 | 一、科專業能力 | I. Department Professional Abilities |
